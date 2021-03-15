@@ -1,4 +1,4 @@
-# demo-ui
+# demosty-ui
 
 ## Project setup
 ```
